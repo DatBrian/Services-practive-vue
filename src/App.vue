@@ -11,4 +11,5 @@ import PostList from './components/PostList.vue';
 </script>
 
 <style>
+    
 </style>
